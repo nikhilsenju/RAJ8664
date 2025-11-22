@@ -8,8 +8,7 @@
 
 <!-- Display the titles -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Science+Gothic&size=16&pause=1000&color=4C4EF7&background=FF2D2800&center=true&vCenter=true&width=435&lines=When+life+slips+out+of+your+control+%E2%80%94+breathe.;A+true+warrior+never+give+up.;And+By+The+Way+myself+Nikhil+Sahani....;I+won%E2%80%99t+let+your+dreams+die.;Are+you+still+afraid+to+fight%3F)](https://git.io/typing-svg)
-<!-- About Me Table -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Science+Gothic&size=17&pause=1000&color=4C4EF7&background=FF2D2800&center=true&vCenter=true&width=435&lines=When+life+slips+out+of+your+control+%E2%80%94+breathe.;A+true+warrior+never+give+up.;And+By+The+Way+myself+Nikhil+Sahani....;I+won%E2%80%99t+let+your+dreams+die.;Are+you+still+afraid+to+fight%3F)](https://git.io/typing-svg)<!-- About Me Table -->
 
 </div>
 
