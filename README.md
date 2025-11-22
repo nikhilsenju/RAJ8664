@@ -8,7 +8,7 @@
 
 <!-- Display the titles -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=3500&pause=700&color=FABD2F&center=true&vCenter=true&width=600&lines=👋Heyyy!+I'm+RAJ+ROY+%3C3;Still+figuring+out;How+far+curiosity+can+take+me.;Oh,+you’re+still+reading?+Cute😌" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=4C4EF7&background=FF359500&center=true&vCenter=true&width=435&lines=When+life+slips+out+of+your+control+%E2%80%94+breathe.;A+true+warrior+never+give+up.;And+By+The+Way+myself+Nikhil+Sahani....;I+won%E2%80%99t+let+your+dreams+die.;Are+you+still+afraid+to+fight%3F)](https://git.io/typing-svg)
 
 <!-- About Me Table -->
 
